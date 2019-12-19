@@ -1,0 +1,36 @@
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\bin\Debug\Server.exe.config
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\bin\Debug\Server.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\bin\Debug\Server.pdb
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.Server.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.pdb
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\bin\Debug\Server.exe.config
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\bin\Debug\Server.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\bin\Debug\Server.pdb
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.Server.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Desktop\Multithreaded-Client-Server-Chat-Application-master\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\Multithreaded-Client-Server-Chat-Application-master\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\Multithreaded-Client-Server-Chat-Application-master\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.Server.resources
+C:\Users\Admin\Desktop\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\obj\Debug\Server.Server.resources
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\obj\Debug\Server.quanlytk.resources
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Desktop\pmChat-Multithread\Server\obj\Debug\Server.csprojAssemblyReference.cache
